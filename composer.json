@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "files": [
+      "path/to/my/firstfile.php",
+      "path/to/my/secondfile.php"
+    ]
+  }
+}

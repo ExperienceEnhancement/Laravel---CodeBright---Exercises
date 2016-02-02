@@ -1,7 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Office_3
- * Date: 2/2/2016
- * Time: 12:03 PM
- */
+namespace Organisms\Animals;
+
+class Rabbit
+{
+    public function eatCarrot() {
+        echo 'The rabbit is eating carrot';
+    }
+}
